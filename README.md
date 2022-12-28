@@ -1,10 +1,6 @@
 
 
 <h1 align="center">Dark Nero Bot v7<br></h1>
-<p align="center">
-<img src="([[[https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg](https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg)](https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg))" alt="animated" width="540" height="280" />
-</p>
-
 
 <p align="center">
 <img src="https://i.ibb.co/Bnkt1TC/Whats-App-Image-2022-09-12-at-09-02-23.jpg"
