@@ -5,9 +5,13 @@
 <img src="([https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg](https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg))" alt="animated" width="540" height="280" />
 </p>
 
+
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+<img src="https://i.ibb.co/Bnkt1TC/Whats-App-Image-2022-09-12-at-09-02-23.jpg"
+ 
+
+
+
 
 <p align="center">
 Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray Senpai</a> for huge contribution, Check out his bot <a href="https://github.com/RaySenpai69/Nezuko" target="_blank">Nezuko</a>
