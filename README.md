@@ -2,7 +2,7 @@
 
 <h1 align="center">Dark Nero Bot v7<br></h1>
 <p align="center">
-<img src="[https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif]([https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg](https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg))" alt="animated" width="540" height="280" />
+<img src="([https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg](https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg))" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
